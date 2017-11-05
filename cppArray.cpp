@@ -40,7 +40,7 @@ int main()
      cin>>c;
      cout<<c;
      cout<<c[2]<<endl;
-     c1 = c;
+     // c1 = c;
      cout<<c1;
      return 0;
 }
