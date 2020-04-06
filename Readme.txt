@@ -1,1 +1,1 @@
-object oriented programming lab assignments 
+These were some of the assigments from my Object Oriented Programming Class.
